@@ -26,7 +26,7 @@ My research interest includes **Urban disaster resilience; Urban safety and heal
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Top😍
 
-# 📖 Educations
+# 📖 Education
 - *2015.03 - 2019.09*, Management science and engineering (construction management), School of Civil Engineering, Southeast University.🇨🇳
 - *2017.01 - 2017.12*, Construction management, School of Construction Management, University of Florida.🇺🇸
 - *2013.08 - 2014.11*, Construction management, Department of Architectural and Civil Engineering, City University of Hong Kong.🇭🇰

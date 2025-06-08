@@ -23,8 +23,8 @@ My research interest includes **Urban disaster resilience; Urban safety and heal
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Top😍
+- *2025.05*: &nbsp;🎉🎉 New research outcome of eye-tracking analysis for smart buildings is presented on the CIB WBC(World Building Congress) 2025, Purdue University. 
+- *2025.02*: &nbsp;🎉🎉 New research outcome of urban building resilience is published on the Top-tier journal **"Environmental Impact Assessment Review"**.😍
 
 # 📖 Education
 - *2015.03 - 2019.09*, Management science and engineering (construction management), School of Civil Engineering, Southeast University.🇨🇳
@@ -34,12 +34,12 @@ My research interest includes **Urban disaster resilience; Urban safety and heal
 
 # 👩‍🏫 Teaching & Supervision
 ## Subject leader/lecturer
-- BRE4291 Real Estate Marketing
-- BRE440 Cost and Value Management
+- BRE 4291 Real Estate Marketing
+- BRE 440 Cost and Value Management
 - BRE 258 Industrial Safety
 - BRE 533 Value Management for Construction and Property
 ## Visiting lecturer
-- Summer term 2024, Real Estate Economics, School of Civil Engineering, Southeast University
+- 2024 summer term, Real Estate Economics, School of Civil Engineering, Southeast University
 - 2016 fall, Architectural Economy (overseas students), School of Architecture, Southeast University
 ## Mentor
 - BRE 365 International Study (Italy study tour)
